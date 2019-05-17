@@ -9,9 +9,9 @@
 ## Technologies
 
 > * Ruby on Rails framework
-* HTML
-* CSS
-* Bootstrap
+> * HTML
+> * CSS
+> * Bootstrap
 
 ## Deployment
 
