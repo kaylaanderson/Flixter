@@ -12,6 +12,8 @@
 > * HTML
 > * CSS
 > * Bootstrap
+> * JavaScript
+> * jQuery
 
 ## Deployment
 
